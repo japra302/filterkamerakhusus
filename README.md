@@ -2,7 +2,7 @@
 
 Aplikasi Flutter sederhana yang memungkinkan kamu menerapkan **filter warna keren** pada foto dengan **carousel interaktif**. Pilih filter favoritmu dengan **gulir** atau **ketukan cepat**, dan lihat hasilnya secara langsung!  
 
-ss :  ![al](fiter.png)
+ss :  ![habib](fiter.png)
 ---
 
 ## ✨ **Fitur Unggulan**  
